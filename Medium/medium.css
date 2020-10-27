@@ -1,0 +1,51 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 1em;
+  
+    
+}
+.wrapper col-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 1em;
+
+   
+    
+    
+}
+.wrapper > div:nth-child(odd){
+    display: inline-block;
+    
+}
+.col-4 img{
+    width: 70px;
+    display: inline-block;
+    padding: 5px;
+    font-size: 40px;
+}
+#fifa{
+    font-size: 60px;
+}
+#GOW{
+    font-size: 60px;
+
+}
+#N4S{
+    font-size: 60px;
+}
+#gtav{
+    font-size: 60px;
+}
+#tv{
+    font-size: 60px;
+}
+#ds{
+    font-size: 60px;
+}
+#controller{
+    font-size: 60px;
+}
+#PS5{
+    font-size: 60px;
+}

@@ -1,0 +1,25 @@
+.container{
+    display: table;
+   
+    
+
+    
+}
+.red{
+    background-color: red;
+    width: 700px;
+    height: 20px;
+    display: inline-block;
+}
+.white{
+    background-color: white;
+    width: 700px;
+    height: 20px;
+    display: inline-block;
+}
+#stars{
+    width: 200px;
+    height: 166px;
+    position: absolute;
+
+}
